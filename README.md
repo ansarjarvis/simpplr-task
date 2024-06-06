@@ -1,6 +1,6 @@
 # Movie List Application
 
-his project is a MERN Stack-based movie application that offers a user-friendly interface for generating, updating, deleting, searching, and filtering movies.
+This project is a MERN Stack-based movie application that offers a user-friendly interface for generating, updating, deleting, searching, and filtering movies.
 
 ## Prerequisites
 
